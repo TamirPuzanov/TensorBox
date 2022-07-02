@@ -1,8 +1,8 @@
 Contributing
 ============
 
-Welcome to the Contributing Guide!
-----------------------------------
+Welcome to the Contributing Guide! ``(still working on the article)``
+-------------------------------------------------------------------------
 
 TensorBox is a community supported project. We will be very happy for your help! 
 Join our Telegram chat and feel free to ask questions if you have any problems.
