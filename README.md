@@ -1,6 +1,21 @@
-# TensorBox  
-An application for designing, training and prototyping neural network models with complex architecture. Using a graphical language to describe the structure and training cycle of models will speed up your work, improve the quality and productivity of your solutions. We want the process of developing deep learning models to be simple and take less time, and ready-made solutions surprise in quality.
+## Welcome to the Contributing Guide! ```still working on the article ```
+TensorBox is a community supported project. We will be very happy for your help!
+Join our Telegram chat and feel free to ask questions if you have any problems.
 
-## Table of contents  
+## Table of contents
+- [Where to contribute](#where-to-contribute)
+- [Acknowledging contributions](#acknowledging-contributions)
+- [Coding style](#coding-style)
+- [API design](#api-design)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
+
+## Where to contribute
+The project is now in its early stages, so there is a lot of work to be done!    
+We value all kinds of contributions - not just code. Look at the table below and choose your contribution area!
+
+| Area          | Description                                            |
+|---------------|--------------------------------------------------------|
+| Nodes         | Think and code how nodes and edges work                |
+| Visual Script | Help make the Visual Script interpreter work           |
+| UI            | Work on interface design                               |
+| Code          | Work on the algorithm for opening and saving a project |
