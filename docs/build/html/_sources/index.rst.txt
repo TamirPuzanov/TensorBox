@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TensorBox documentation!
-===================================
+Welcome to TensorBox documentation! ``(still working on the article)``
+=======================================================================
 
 TensorBox is an application for designing, training and prototyping neural network models with complex architecture. 
 Using a graphical language to describe the structure and training cycle of models will speed up your work, 
